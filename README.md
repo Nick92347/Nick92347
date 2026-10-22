@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <!--
 **Nick92347/Nick92347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
